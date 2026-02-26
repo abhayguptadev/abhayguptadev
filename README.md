@@ -22,7 +22,7 @@
 - 🎓 MCA Student passionate about real-world software development  
 - 💙 Flutter for beautiful cross-platform apps  
 - 🧠 Django for powerful backend systems  
-- 🗄 MongoDB & SQLite for data-driven applications  
+- 🗄 MongoDB for data-driven applications  
 - 🎯 Goal: Become Industry-Level Full Stack App Developer  
 
 ---
@@ -31,7 +31,7 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ### 🧠 Backend
@@ -46,7 +46,7 @@
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,java,c" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ---
@@ -57,11 +57,6 @@
 - Flutter + Hive + Provider  
 - Local persistent storage  
 - Clean architecture  
-
-### 📌 University Management App
-- Flutter + Django + MongoDB  
-- REST API integration  
-- Authentication system  
 
 ### 📌 Notes App
 - PDF Import/Export  
