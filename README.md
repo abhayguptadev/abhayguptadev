@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
-<h3 align="center">🚀 Full Stack App Developer | MCA Student</h3>
+<h3 align="center">🚀 Full Stack App Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Django+Backend+Engineer;MongoDB+Enthusiast;Building+Better+Code,+One+Line+at+a+Time." />
