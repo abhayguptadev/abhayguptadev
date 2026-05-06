@@ -79,9 +79,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" />
 </a>
 
-<a href="https://www.threads.com/@abhayguptadev" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="30" />
-</a>
 
 </p>
 
