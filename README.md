@@ -1,10 +1,10 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
-<h3 align="center"> 🚀 Flutter Developer | Backend Engineer | Full Stack App Developer </h3>
+<h3 align="center"> Flutter Developer | Backend Engineer | Full Stack App Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter;Frontend+Developer;Django;Backend+Engineer;MongoDB;Building+Better+Code,+One+Line+at+a+Time." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Frontend+Developer;Backend+Engineer;Django+REST+Framework;MongoDB;Building+Better+Code,+One+Line+at+a+Time." />
 </p>
 
 ---
@@ -17,13 +17,16 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-- 🎓 MCA Student passionate about real-world software development  
-- 💙 Flutter for beautiful cross-platform apps  
-- 🧠 Django for powerful backend systems  
-- 🗄 MongoDB for data-driven applications  
-- 🎯 Goal: Become Industry-Level Full Stack App Developer  
+- 🚀 Full Stack App Developer focused on building modern and scalable applications  
+- 💙 Flutter Developer creating cross-platform mobile applications  
+- 🧠 Backend Engineer learning Django & Django REST Framework  
+- 🗄 Learning MongoDB, Firebase & SQLite databases  
+- ⚡ Passionate about API development, app architecture & clean UI design  
+- 🌱 Currently learning Advanced Full Stack Development & AR Integration  
+- 🎯 Goal: Build production-ready applications and grow as an industry-level developer  
 
 ---
 
@@ -41,7 +44,7 @@
 
 ### 🗄 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### 🛠 Tools
@@ -67,12 +70,19 @@
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abhayguptadev" target="[blank](https://www.linkedin.com/in/abhayguptadev/)">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 
-<a href="https://twitter.com/abhayguptadev" target="[blank](https://x.com/abhayguptadev)">
+<a href="https://www.linkedin.com/in/abhayguptadev" target="_blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+
+<a href="https://x.com/abhayguptadev" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" />
 </a>
+
+<a href="https://www.threads.com/@abhayguptadev" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="30" />
+</a>
+
 </p>
 
 ---
