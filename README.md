@@ -1,10 +1,10 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
-<h3 align="center">🚀 Full Stack App Developer </h3>
+<h3 align="center"> 🚀 Flutter Developer | Backend Engineer | Full Stack App Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Django+Backend+Engineer;MongoDB+Enthusiast;Building+Better+Code,+One+Line+at+a+Time." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Django+Backend+Engineer;MongoDB;Building+Better+Code,+One+Line+at+a+Time." />
 </p>
 
 ---
@@ -77,14 +77,20 @@
 
 ---
 
-## 🎯 2026 Goals
+## # 🎯 2026 Goals 
 
-- 🚀 Build 5 Production-Ready Apps  
-- 🧠 Master Advanced Flutter Architecture  
-- ⚡ Optimize Django APIs for Scale  
-- 🌍 Contribute to Open Source  
+✅ Complete Full Stack Development Journey 
+
+✅ Learn AR Development with Flutter 
+
+✅ Build Real-World Production Apps 
+
+✅ Improve Backend & API Development Skills 
+
+✅ Contribute to Open Source Projects
 
 ---
+
 
 <p align="center">
   💡 “Building Better Code, One Line at a Time.”
