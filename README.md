@@ -39,7 +39,7 @@
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,python" />
+  <img src="https://skillicons.dev/icons?i=django rest framework,python" />
 </p>
 
 ### 🗄 Database
