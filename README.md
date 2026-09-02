@@ -125,9 +125,6 @@ A mobile notes application with local database support and document management f
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayguptadev&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhay's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayguptadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
