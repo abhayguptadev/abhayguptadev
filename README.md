@@ -50,14 +50,11 @@
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase" height="50" alt="MongoDB SQLite Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase" height="50" alt="MongoDB Firebase" />
 </p>
 
 ### 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" height="50" alt="Git GitHub Figma Postman VS Code" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" height="50" alt="Git GitHub Figma Postman VS Code Android Studio" /> </p>
 
 ---
 
