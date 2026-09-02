@@ -49,7 +49,7 @@
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 </p>
 
 ---
