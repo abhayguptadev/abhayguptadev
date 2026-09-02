@@ -34,9 +34,11 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <!-- Python aur Django ke core Skill Icons -->
+  <img src="https://skillicons.dev" />
+  <!-- Django REST Framework ka explicit official badge design -->
+  <img src="https://shields.io" height="50" />
 </p>
-
 ### 🧠 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=djangorestframework,python" />
