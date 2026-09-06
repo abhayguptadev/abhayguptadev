@@ -22,13 +22,14 @@
 
 🧠 Backend Engineer working with Python, Django, and Django REST Framework.
 
-🗄️ Working with databases such as MongoDB, SQLite, Hive, and Firebase.
+🗄️ Working with databases such as MongoDB, Hive, and Firebase.
 
 ⚡ Interested in API development, app architecture, clean UI, and scalable systems.
 
-🌱 Currently expanding my skills in advanced full-stack development, DevOps, and AR development.
+🌱 Currently expanding my skills in advanced Full-Stack App Development, DevOps, and IoT.
 
-🎯 Goal: Build production-ready applications and grow into an industry-level Full Stack App Developer.
+🎯 Goal: Become an industry-ready Full-Stack App Developer capable of building, deploying, and scaling production-ready applications.
+
 
 ---
 
