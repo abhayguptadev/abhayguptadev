@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
 
 <h3 align="center">
-  Flutter Developer | Backend Engineer | Full Stack App Developer
+  Full-Stack App Developer | Flutter Developer | Backend Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Backend+Engineer;Django+REST+Framework;Full+Stack+App+Developer;Building+Better+Code%2C+One+Line+at+a+Time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+App+Developer;Flutter+%2B+Django;Backend+%26+REST+APIs;Building+Real-World+Applications;Learning%2C+Building%2C+Improving." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,24 +16,25 @@
 
 ## 👨‍💻 About Me
 
-🚀 Full Stack App Developer focused on building modern and scalable applications.
+🚀 MCA student and Full-Stack App Developer focused on building modern, practical, and scalable applications.
 
-💙 Flutter Developer creating cross-platform mobile applications.
+📱 Building cross-platform mobile applications with **Flutter & Dart**.
 
-🧠 Backend Engineer working with Python, Django, and Django REST Framework.
+🧠 Developing backend systems and REST APIs using **Python, Django & Django REST Framework**.
 
-🗄️ Working with databases such as MongoDB, Hive, and Firebase.
+🗄️ Working with **MongoDB** as my current primary database, along with Firebase and SQLite where appropriate.
 
-⚡ Interested in API development, app architecture, clean UI, and scalable systems.
+🎨 I also have a strong interest in **UI/UX and visual design**, using tools like Figma to create clean and user-friendly interfaces.
 
-🌱 Currently expanding my skills in advanced Full-Stack App Development, DevOps, and IoT.
+⚡ Interested in API architecture, authentication, database design, clean code, application architecture, deployment, and performance.
 
-🎯 Goal: Become an industry-ready Full-Stack App Developer capable of building, deploying, and scaling production-ready applications.
+🌱 Currently strengthening my skills in **Full-Stack App Development, DevOps, and Advanced DSA with Java**.
 
+🎯 My goal is to become a strong **Full-Stack App Developer** capable of designing, building, deploying, and scaling production-ready applications.
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 ### 📱 Mobile & Frontend
 
@@ -41,53 +42,180 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart" height="50" alt="Flutter and Dart" />
 </p>
 
-### 🧠 Backend
+### 🧠 Backend & APIs
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django" height="50" alt="Python and Django" />
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="50" alt="Django REST Framework" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Backend Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase" height="50" alt="MongoDB Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" height="50" alt="MongoDB Firebase SQLite" />
 </p>
 
-### 🛠️ Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" height="50" alt="Git GitHub Figma Postman VS Code Android Studio" /> </p>
+### 💻 Programming & DSA
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart,java,c" height="50" alt="Python Dart Java C" />
+</p>
+
+### 🛠️ Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" height="50" alt="Git GitHub Figma Postman VS Code Android Studio" />
+</p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 What I Build
+
+I enjoy building complete applications rather than working on only one layer of development.
+
+My current focus includes:
+
+📱 Cross-platform mobile applications with Flutter
+
+🔐 Authentication and user management
+
+🌐 RESTful API development with Django REST Framework
+
+🗄️ Database-driven applications
+
+🔄 Frontend ↔ Backend integration
+
+🏗️ Clean and maintainable application architecture
+
+🎨 UI/UX-focused interfaces
+
+🚀 Deployment and DevOps workflows
+
+🧠 Problem solving and Data Structures & Algorithms
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Panchang App
+
+A modern Flutter application focused on providing Panchang and related information through a clean and accessible mobile experience.
+
+**Tech Stack:** Flutter • Dart
+
+**Focus:**
+📱 Cross-platform mobile development
+🎨 Clean UI/UX
+🏗️ Structured application architecture
+
+---
 
 ### 📌 Habit Tracker App
 
-A Flutter-based habit tracking application focused on a clean user experience and reliable local data persistence.
+A Flutter-based application designed to help users track and manage their daily habits with reliable local persistence.
 
 **Tech Stack:** Flutter • Dart • Hive • Provider
 
 **Features:**
-
-* 📊 Habit tracking
-* 💾 Local persistent storage
-* 🔄 State management with Provider
-* 🏗️ Clean and scalable project structure
+📊 Habit tracking
+💾 Local persistent storage
+🔄 State management with Provider
+🏗️ Structured and maintainable codebase
 
 ---
 
-### 📌 Notes App
+### 📌 Cahier — Notes App
 
-A mobile notes application with local database support and document management features.
+A mobile notes application focused on creating, organizing, and managing notes with document support.
 
 **Tech Stack:** Flutter • Dart • SQLite
 
 **Features:**
+📝 Create and manage notes
+📄 PDF import and export
+💾 Local database storage
+📱 Clean mobile interface
 
-* 📝 Create and manage notes
-* 📄 PDF import and export
-* 💾 SQLite local storage
-* 📱 Clean mobile UI
+---
+
+### 📌 Education Video Platform
+
+A major full-stack project inspired by modern video-learning platforms, designed specifically for education.
+
+**Tech Stack:** Flutter • Django • Django REST Framework • MongoDB
+
+**Planned Core Features:**
+🎥 Educational videos
+📚 Courses and playlists
+📄 Notes and PDFs
+📝 Quizzes
+💬 Doubts and comments
+📈 Learning progress
+🏆 Certificates
+🤖 AI-powered summaries
+🌐 Multilingual learning
+👨‍🏫 Creator dashboard
+🎯 Distraction-free learning experience
+
+---
+
+## 🧠 Currently Learning
+
+### Full-Stack App Development
+
+Deepening my understanding of complete application development, from mobile UI to backend APIs, databases, authentication, deployment, and production architecture.
+
+### Backend Development
+
+Currently strengthening:
+
+**Python → Django → Django REST Framework → REST APIs → Authentication → Validation → Error Handling → Database Integration → API Documentation**
+
+### Database
+
+Currently focusing primarily on:
+
+**MongoDB**
+
+Also working with:
+
+**Firebase • SQLite**
+
+### DevOps
+
+Learning the tools and practices required to take applications from development to deployment and eventually build reliable production systems.
+
+### Data Structures & Algorithms
+
+Learning **Advanced DSA with Java** to strengthen problem-solving, algorithmic thinking, and coding fundamentals.
+
+---
+
+## 🎯 2026 Goals
+
+🚀 Complete my Full-Stack App Development journey
+
+📱 Build and launch real-world applications
+
+🧠 Become stronger in Backend & REST API Development
+
+🗄️ Master practical database design and integration
+
+⚙️ Build strong DevOps and deployment skills
+
+🧩 Complete Advanced DSA using Java
+
+🌍 Contribute to Open Source
+
+🏗️ Build production-ready applications under my own developer identity
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayguptadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -105,31 +233,6 @@ A mobile notes application with local database support and document management f
 
 ---
 
-## 🎯 2026 Goals
-
-✅ Complete my Full Stack Development journey
-
-✅ Build real-world production-ready applications
-
-✅ Strengthen Backend & API Development skills
-
-✅ Learn DevOps and modern deployment practices
-
-✅ Explore AR Development with Flutter
-
-✅ Contribute to Open Source Projects
-
----
-
-## 📊 GitHub Stats
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayguptadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  💡 <i>"Building Better Code, One Line at a Time."</i>
+  💡 <i>"Learning. Building. Improving."</i>
 </p>
