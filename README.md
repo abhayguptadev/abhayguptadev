@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
 
 <h3 align="center">
-  Full-Stack App Developer | Flutter Developer | Backend Engineer
+  Full-Stack App Developer | DevOps Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+App+Developer;Flutter+%2B+Django;Backend+%26+REST+APIs;Building+Real-World+Applications;Learning%2C+Building%2C+Improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+App+Developer;DevOps+Engineer;Flutter+%2B+Django;Backend+%26+REST+APIs;Building+Production-Ready+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,21 +16,21 @@
 
 ## 👨‍💻 About Me
 
-🚀 MCA student and Full-Stack App Developer focused on building modern, practical, and scalable applications.
+🚀 Full-Stack App Developer focused on building modern, scalable, and production-ready applications.
 
-📱 Building cross-platform mobile applications with **Flutter & Dart**.
+📱 Building cross-platform applications with **Flutter & Dart**.
 
 🧠 Developing backend systems and REST APIs using **Python, Django & Django REST Framework**.
 
-🗄️ Working with **MongoDB** as my current primary database, along with Firebase and SQLite where appropriate.
+🗄️ Working primarily with **MongoDB**, along with Firebase and other data-storage technologies when required.
 
-🎨 I also have a strong interest in **UI/UX and visual design**, using tools like Figma to create clean and user-friendly interfaces.
+⚙️ Expanding my expertise in **DevOps, deployment, CI/CD, containers, and cloud technologies**.
 
-⚡ Interested in API architecture, authentication, database design, clean code, application architecture, deployment, and performance.
+🎨 I also have a strong interest in **UI/UX and graphic design**, allowing me to work across both product design and development.
 
-🌱 Currently strengthening my skills in **Full-Stack App Development, DevOps, and Advanced DSA with Java**.
+🔗 Interested in building complete systems — from **UI and APIs to databases, deployment, and infrastructure**.
 
-🎯 My goal is to become a strong **Full-Stack App Developer** capable of designing, building, deploying, and scaling production-ready applications.
+🎯 My goal is to become a strong **Full-Stack App Developer and DevOps Engineer** capable of building, deploying, and maintaining production-grade applications.
 
 ---
 
@@ -49,172 +49,110 @@
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="50" alt="Django REST Framework" />
 </p>
 
-### 🗄️ Databases & Backend Services
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" height="50" alt="MongoDB Firebase SQLite" />
 </p>
 
-### 💻 Programming & DSA
+### ⚙️ DevOps & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,java,c" height="50" alt="Python Dart Java C" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" height="50" alt="Git GitHub Docker Linux Nginx" />
 </p>
 
-### 🛠️ Tools & Development
+### 🛠️ Development & Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" height="50" alt="Git GitHub Figma Postman VS Code Android Studio" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,androidstudio" height="50" alt="Figma Postman VS Code Android Studio" />
 </p>
 
 ---
 
-## 🔥 What I Build
+## 🔧 What I Work On
 
-I enjoy building complete applications rather than working on only one layer of development.
+📱 Cross-platform mobile application development
 
-My current focus includes:
-
-📱 Cross-platform mobile applications with Flutter
+🌐 REST API development with Django REST Framework
 
 🔐 Authentication and user management
 
-🌐 RESTful API development with Django REST Framework
-
-🗄️ Database-driven applications
+🗄️ Database design and integration
 
 🔄 Frontend ↔ Backend integration
 
-🏗️ Clean and maintainable application architecture
+🏗️ Application architecture and clean code
 
-🎨 UI/UX-focused interfaces
+🐳 Containerization and deployment
 
-🚀 Deployment and DevOps workflows
+⚙️ CI/CD and DevOps workflows
 
-🧠 Problem solving and Data Structures & Algorithms
+☁️ Cloud and production infrastructure
 
----
-
-## 🚀 Featured Projects
-
-### 📌 Panchang App
-
-A modern Flutter application focused on providing Panchang and related information through a clean and accessible mobile experience.
-
-**Tech Stack:** Flutter • Dart
-
-**Focus:**
-📱 Cross-platform mobile development
-🎨 Clean UI/UX
-🏗️ Structured application architecture
+🎨 UI/UX and product-focused design
 
 ---
 
-### 📌 Habit Tracker App
+## 🚀 Current Focus
 
-A Flutter-based application designed to help users track and manage their daily habits with reliable local persistence.
+I'm currently focused on becoming a complete **Full-Stack App Developer + DevOps Engineer**.
 
-**Tech Stack:** Flutter • Dart • Hive • Provider
+My development path:
 
-**Features:**
-📊 Habit tracking
-💾 Local persistent storage
-🔄 State management with Provider
-🏗️ Structured and maintainable codebase
+**Flutter → Django → Django REST Framework → MongoDB → API Integration → Deployment → Docker → CI/CD → DevOps → Cloud**
+
+The goal is not just to build applications, but to understand the complete journey from **development to production**.
 
 ---
 
-### 📌 Cahier — Notes App
+## 🌱 Learning & Improving
 
-A mobile notes application focused on creating, organizing, and managing notes with document support.
+📱 Advanced Flutter Development
 
-**Tech Stack:** Flutter • Dart • SQLite
+🧠 Django & Django REST Framework
 
-**Features:**
-📝 Create and manage notes
-📄 PDF import and export
-💾 Local database storage
-📱 Clean mobile interface
+🗄️ MongoDB & Database Architecture
 
----
+🌐 RESTful API Design
 
-### 📌 Education Video Platform
+🐳 Docker & Containerization
 
-A major full-stack project inspired by modern video-learning platforms, designed specifically for education.
+⚙️ CI/CD Pipelines
 
-**Tech Stack:** Flutter • Django • Django REST Framework • MongoDB
+🐧 Linux & Server Management
 
-**Planned Core Features:**
-🎥 Educational videos
-📚 Courses and playlists
-📄 Notes and PDFs
-📝 Quizzes
-💬 Doubts and comments
-📈 Learning progress
-🏆 Certificates
-🤖 AI-powered summaries
-🌐 Multilingual learning
-👨‍🏫 Creator dashboard
-🎯 Distraction-free learning experience
+☁️ Cloud & Deployment
 
----
+🔐 Application & Infrastructure Security
 
-## 🧠 Currently Learning
-
-### Full-Stack App Development
-
-Deepening my understanding of complete application development, from mobile UI to backend APIs, databases, authentication, deployment, and production architecture.
-
-### Backend Development
-
-Currently strengthening:
-
-**Python → Django → Django REST Framework → REST APIs → Authentication → Validation → Error Handling → Database Integration → API Documentation**
-
-### Database
-
-Currently focusing primarily on:
-
-**MongoDB**
-
-Also working with:
-
-**Firebase • SQLite**
-
-### DevOps
-
-Learning the tools and practices required to take applications from development to deployment and eventually build reliable production systems.
-
-### Data Structures & Algorithms
-
-Learning **Advanced DSA with Java** to strengthen problem-solving, algorithmic thinking, and coding fundamentals.
+📈 Scalable Production Systems
 
 ---
 
 ## 🎯 2026 Goals
 
-🚀 Complete my Full-Stack App Development journey
+✅ Become a strong Full-Stack App Developer
 
-📱 Build and launch real-world applications
+✅ Build and launch real-world applications
 
-🧠 Become stronger in Backend & REST API Development
+✅ Strengthen Backend & API Development
 
-🗄️ Master practical database design and integration
+✅ Become proficient in DevOps and deployment
 
-⚙️ Build strong DevOps and deployment skills
+✅ Learn modern cloud and infrastructure practices
 
-🧩 Complete Advanced DSA using Java
+✅ Deploy and maintain production-ready applications
 
-🌍 Contribute to Open Source
-
-🏗️ Build production-ready applications under my own developer identity
+🌍 Contribute to Open Source Projects
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 LeetCode
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayguptadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
 </p>
 
 ---
@@ -234,5 +172,5 @@ Learning **Advanced DSA with Java** to strengthen problem-solving, algorithmic t
 ---
 
 <p align="center">
-  💡 <i>"Learning. Building. Improving."</i>
+  💡 <i>"Building. Deploying. Improving."</i>
 </p>
