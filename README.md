@@ -150,7 +150,7 @@ The goal is not just to build applications, but to understand the complete journ
 ## 🧩 LeetCode
 
 <p align="left">
-  <a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
+  <a href="https://leetcode.com/u/abhayguptadev/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
 </p>
