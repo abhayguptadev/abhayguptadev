@@ -52,7 +52,7 @@
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" height="50" alt="MongoDB Firebase SQLite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" height="50" alt="MongoDB Firebase" />
 </p>
 
 ### ⚙️ DevOps & Deployment
