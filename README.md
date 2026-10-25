@@ -1,117 +1,126 @@
-# Hi, I'm Abhay Gupta
+# Abhay Gupta — GitHub Profile README
 
-### Full-Stack App Developer | Flutter Developer | Backend Developer
+<h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
 
-I build mobile applications, REST APIs, and practical software solutions using Flutter, Dart, Python, Django REST Framework, and MongoDB.
+<h3 align="center">
+  Full-Stack App Developer | Flutter Developer | Backend & DevOps
+</h3>
 
-I'm a computer science graduate pursuing MCA, focused on full-stack application development, backend engineering, API development, database integration, and scalable software architecture.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+App+Developer;Flutter+%26+Dart+Developer;Python+%26+Django+REST+Framework;Backend+%26+API+Developer;MongoDB+%26+Database+Integration;Learning+DevOps+%26+Cloud+Deployment" alt="Abhay Gupta - Developer Typing Animation" />
+</p>
 
-My goal is to build reliable, user-focused applications that solve real-world problems.
+<p align="center">
+  <a href="https://github.com/abhayguptadev">
+    <img src="https://komarev.com/ghpvc/?username=abhayguptadev&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub profile views" />
+  </a>
+  <a href="https://github.com/abhayguptadev?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhayguptadev?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-**Explore my work:** [Portfolio](https://abhayguptadev.com/) · [GitHub Projects](https://github.com/abhayguptadev) · [LinkedIn](https://www.linkedin.com/in/abhayguptadev)
+<p align="center">
+  <a href="https://abhayguptadev.com/">Portfolio</a> •
+  <a href="https://github.com/abhayguptadev?tab=repositories">Repositories</a> •
+  <a href="https://www.linkedin.com/in/abhayguptadev">LinkedIn</a> •
+  <a href="https://leetcode.com/u/abhayguptadev/">LeetCode</a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Flutter Developer building cross-platform mobile applications with Dart.
-- Full-Stack App Developer working across application interfaces, backend services, APIs, and databases.
-- Backend Developer learning and building with Python, Django, and Django REST Framework (DRF).
-- REST API Developer focused on authentication, data handling, and application integration.
-- Database development experience and learning with MongoDB, Firebase, and SQLite.
-- Interested in clean code, software architecture, DevOps, and production-ready applications.
-- Exploring IoT and AR/VR development as future areas of growth.
+I'm Abhay Gupta, a computer science graduate pursuing MCA, passionate about building useful mobile applications, backend systems, and complete software products.
 
-## Technical Skills
+- 📱 Building cross-platform mobile apps using **Flutter and Dart**.
+- 🐍 Developing backend applications with **Python, Django, and Django REST Framework (DRF)**.
+- 🌐 Designing and integrating **REST APIs** for mobile and web applications.
+- 🗄️ Working with **MongoDB, PyMongo, Firebase, and SQLite** for data storage and integration.
+- ⚙️ Learning **DevOps, Docker, CI/CD, Linux, deployment, and cloud infrastructure**.
+- 🎨 Combining software development with **UI/UX and graphic design**.
+- 🧩 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
+- 🚀 Interested in building reliable, maintainable, and production-ready applications.
 
-### Mobile App Development
+**My approach:** Understand the problem, build the solution, test it, and improve it.
 
-`Flutter` `Dart` `Android Development` `Cross-Platform Development` `Provider` `Hive`
+---
 
-### Backend Development
+## ⚡ Tech Stack
 
-`Python` `Django` `Django REST Framework` `REST API Development` `JWT Authentication` `API Integration`
+### 📱 Mobile App Development
 
-### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="48" alt="Flutter and Dart" />
+</p>
 
-`MongoDB` `MongoDB Atlas` `PyMongo` `Firebase` `SQLite`
+Flutter • Dart • Cross-Platform Development • Android Applications • Provider • Hive
 
-### Web Development
+### 🧠 Backend Development & API Engineering
 
-`HTML` `CSS` `JavaScript` `Responsive UI`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django" height="48" alt="Python and Django" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django REST Framework" />
+</p>
 
-### Tools & DevOps
+Python • Django • Django REST Framework • REST APIs • JWT Authentication • API Integration
 
-`Git` `GitHub` `VS Code` `Android Studio` `CI/CD` `Deployment`
+### 🗄️ Databases & Data Storage
 
-> Skills and technologies represent my development experience and learning areas. Check individual projects for their exact implementation.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" height="48" alt="MongoDB Firebase SQLite" />
+</p>
 
-## Featured Projects
+MongoDB • MongoDB Atlas • PyMongo • Firebase • SQLite • Database Integration
 
-### Coder Card — Python GUI Application
+### ⚙️ DevOps, Tools & Deployment
 
-A customizable desktop application for creating developer identity cards with a live preview and JPG export.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,postman,androidstudio" height="48" alt="Git GitHub Docker Linux Nginx VS Code Postman Android Studio" />
+</p>
 
-**Technologies:** Python, CustomTkinter, Pillow
+Git • GitHub • Docker • Linux • Nginx • Postman • VS Code • Android Studio • CI/CD Learning • Application Deployment
 
-[View Repository](https://github.com/abhayguptadev/Coder-Card)
+### 🎨 UI/UX & Design
 
-### Apps — Android Apps & Web Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" />
+</p>
 
-A collection of applications, APK downloads, and web demos, including DocPocket, MathSphere, and Skribbl.
+UI/UX Design • Graphic Design • Interface Design • User-Focused Product Development
 
-**Explore:** Android application development, mobile utilities, and web projects.
+---
 
-[View Apps Repository](https://github.com/abhayguptadev/Apps)
+## 🚀 Featured Projects
 
-### Skribbl Clone — Multiplayer Drawing Game
+### 1. Coder Card
 
-A multiplayer drawing and guessing game built with Flutter and a Django Channels backend using WebSockets.
+A customizable Python desktop application for creating personalized developer identity cards with live preview and JPG export.
 
-**Technologies:** Flutter, Dart, Django, Django Channels, WebSockets
+**Tech Stack:** Python • CustomTkinter • Pillow
 
-[View Source Code](https://github.com/abhayguptadev/skribbl_clone) · [Play Live Demo](https://skribbl-game-sepia.vercel.app/)
+[![GitHub Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/abhayguptadev/Coder-Card)
 
-### Data Structures & Algorithms
+### 2. Skribbl Clone
 
-A university learning repository containing class-wise DSA practice and coding exercises.
+A multiplayer drawing and guessing game with a Flutter frontend and a Django Channels backend using WebSockets.
 
-**Focus:** Programming fundamentals, algorithms, and problem-solving.
+**Tech Stack:** Flutter • Dart • Django • WebSockets
 
-[Explore DSA](https://github.com/abhayguptadev/DSA)
+[![GitHub Repository](https://img.shields.io/badge/View-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/abhayguptadev/skribbl_clone)
+[![Live Demo](https://img.shields.io/badge/Play-Live_Demo-0A7F5A?style=for-the-badge)](https://skribbl-game-sepia.vercel.app/)
 
-### MathSphere — Mathematics Application
+### 3. Apps — Mobile & Web Projects
 
-A mathematics utility application for calculations and mathematical tools.
+A collection of mobile applications and web projects, including DocPocket, MathSphere, and Skribbl.
 
-[Explore Projects](https://github.com/abhayguptadev/Apps)
+**Focus:** Android Apps • Flutter Projects • APK Downloads • Web Applications
 
-## What I'm Learning
+[![GitHub Repository](https://img.shields.io/badge/Explore-Apps-181717?style=for-the-badge&logo=github)](https://github.com/abhayguptadev/Apps)
 
-- Advanced Flutter application development.
-- Django REST Framework and backend API design.
-- MongoDB, database modeling, and data access.
-- Java and Data Structures & Algorithms.
-- DevOps, deployment, and CI/CD workflows.
-- IoT and AR/VR application development.
+### 4. Data Structures & Algorithms
 
-## Development Interests
+A university DSA practice repository containing class-wise coding exercises and learning materials.
 
-`Flutter Developer` · `Mobile App Developer` · `Full-Stack Developer` · `Backend Developer` · `Python Developer` · `Django Developer` · `Django REST Framework` · `REST API Developer` · `Dart Developer` · `MongoDB` · `Application Development`
+**Focus:** Data Structures • Algorithms • Coding Practice • Problem Solving
 
-## Connect With Me
-
-- **Portfolio:** [abhayguptadev.com](https://abhayguptadev.com/)
-- **GitHub:** [@abhayguptadev](https://github.com/abhayguptadev)
-- **LinkedIn:** [Abhay Gupta](https://www.linkedin.com/in/abhayguptadev)
-- **X:** [@abhayguptadev](https://x.com/abhayguptadev)
-- **Instagram:** [@abhayguptadev](https://www.instagram.com/abhayguptadev/)
-- **Threads:** [@abhayguptadev](https://www.threads.com/@abhayguptadev)
-
-## Support My Work
-
-If you find my projects useful, consider starring the repositories, sharing feedback, or contributing improvements.
-
-I'm always interested in building useful software, learning new technologies, and connecting with developers who enjoy solving real-world problems.
-
-**Building better code, one line at a time.**
+[![GitHub Repository](https://img.shields.io/badge/
