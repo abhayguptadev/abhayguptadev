@@ -123,4 +123,3 @@ A university DSA practice repository containing class-wise coding exercises and 
 
 **Focus:** Data Structures • Algorithms • Coding Practice • Problem Solving
 
-[![GitHub Repository](https://img.shields.io/badge/
