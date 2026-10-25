@@ -1,176 +1,117 @@
-<h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
+# Hi, I'm Abhay Gupta
 
-<h3 align="center">
-  Full-Stack App Developer | DevOps Engineer
-</h3>
+### Full-Stack App Developer | Flutter Developer | Backend Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+App+Developer;DevOps+Engineer;Flutter+%2B+Django;Backend+%26+REST+APIs;Building+Production-Ready+Applications" alt="Typing SVG" />
-</p>
+I build mobile applications, REST APIs, and practical software solutions using Flutter, Dart, Python, Django REST Framework, and MongoDB.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhayguptadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I'm a computer science graduate pursuing MCA, focused on full-stack application development, backend engineering, API development, database integration, and scalable software architecture.
+
+My goal is to build reliable, user-focused applications that solve real-world problems.
+
+**Explore my work:** [Portfolio](https://abhayguptadev.com/) · [GitHub Projects](https://github.com/abhayguptadev) · [LinkedIn](https://www.linkedin.com/in/abhayguptadev)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🚀 Full-Stack App Developer focused on building modern, scalable, and production-ready applications.
+- Flutter Developer building cross-platform mobile applications with Dart.
+- Full-Stack App Developer working across application interfaces, backend services, APIs, and databases.
+- Backend Developer learning and building with Python, Django, and Django REST Framework (DRF).
+- REST API Developer focused on authentication, data handling, and application integration.
+- Database development experience and learning with MongoDB, Firebase, and SQLite.
+- Interested in clean code, software architecture, DevOps, and production-ready applications.
+- Exploring IoT and AR/VR development as future areas of growth.
 
-📱 Building cross-platform applications with **Flutter & Dart**.
+## Technical Skills
 
-🧠 Developing backend systems and REST APIs using **Python, Django & Django REST Framework**.
+### Mobile App Development
 
-🗄️ Working primarily with **MongoDB**, along with Firebase and other data-storage technologies when required.
+`Flutter` `Dart` `Android Development` `Cross-Platform Development` `Provider` `Hive`
 
-⚙️ Expanding my expertise in **DevOps, deployment, CI/CD, containers, and cloud technologies**.
+### Backend Development
 
-🎨 I also have a strong interest in **UI/UX and graphic design**, allowing me to work across both product design and development.
+`Python` `Django` `Django REST Framework` `REST API Development` `JWT Authentication` `API Integration`
 
-🔗 Interested in building complete systems — from **UI and APIs to databases, deployment, and infrastructure**.
+### Databases
 
-🎯 My goal is to become a strong **Full-Stack App Developer and DevOps Engineer** capable of building, deploying, and maintaining production-grade applications.
+`MongoDB` `MongoDB Atlas` `PyMongo` `Firebase` `SQLite`
 
----
+### Web Development
 
-## ⚡ Tech Stack
+`HTML` `CSS` `JavaScript` `Responsive UI`
 
-### 📱 Mobile & Frontend
+### Tools & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" height="50" alt="Flutter and Dart" />
-</p>
+`Git` `GitHub` `VS Code` `Android Studio` `CI/CD` `Deployment`
 
-### 🧠 Backend & APIs
+> Skills and technologies represent my development experience and learning areas. Check individual projects for their exact implementation.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django" height="50" alt="Python and Django" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="50" alt="Django REST Framework" />
-</p>
+## Featured Projects
 
-### 🗄️ Databases
+### Coder Card — Python GUI Application
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" height="50" alt="MongoDB Firebase" />
-</p>
+A customizable desktop application for creating developer identity cards with a live preview and JPG export.
 
-### ⚙️ DevOps & Deployment
+**Technologies:** Python, CustomTkinter, Pillow
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" height="50" alt="Git GitHub Docker Linux Nginx" />
-</p>
+[View Repository](https://github.com/abhayguptadev/Coder-Card)
 
-### 🛠️ Development & Design Tools
+### Apps — Android Apps & Web Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,androidstudio" height="50" alt="Figma Postman VS Code Android Studio" />
-</p>
+A collection of applications, APK downloads, and web demos, including DocPocket, MathSphere, and Skribbl.
 
----
+**Explore:** Android application development, mobile utilities, and web projects.
 
-## 🔧 What I Work On
+[View Apps Repository](https://github.com/abhayguptadev/Apps)
 
-📱 Cross-platform mobile application development
+### Skribbl Clone — Multiplayer Drawing Game
 
-🌐 REST API development with Django REST Framework
+A multiplayer drawing and guessing game built with Flutter and a Django Channels backend using WebSockets.
 
-🔐 Authentication and user management
+**Technologies:** Flutter, Dart, Django, Django Channels, WebSockets
 
-🗄️ Database design and integration
+[View Source Code](https://github.com/abhayguptadev/skribbl_clone) · [Play Live Demo](https://skribbl-game-sepia.vercel.app/)
 
-🔄 Frontend ↔ Backend integration
+### Data Structures & Algorithms
 
-🏗️ Application architecture and clean code
+A university learning repository containing class-wise DSA practice and coding exercises.
 
-🐳 Containerization and deployment
+**Focus:** Programming fundamentals, algorithms, and problem-solving.
 
-⚙️ CI/CD and DevOps workflows
+[Explore DSA](https://github.com/abhayguptadev/DSA)
 
-☁️ Cloud and production infrastructure
+### MathSphere — Mathematics Application
 
-🎨 UI/UX and product-focused design
+A mathematics utility application for calculations and mathematical tools.
 
----
+[Explore Projects](https://github.com/abhayguptadev/Apps)
 
-## 🚀 Current Focus
+## What I'm Learning
 
-I'm currently focused on becoming a complete **Full-Stack App Developer + DevOps Engineer**.
+- Advanced Flutter application development.
+- Django REST Framework and backend API design.
+- MongoDB, database modeling, and data access.
+- Java and Data Structures & Algorithms.
+- DevOps, deployment, and CI/CD workflows.
+- IoT and AR/VR application development.
 
-My development path:
+## Development Interests
 
-**Flutter → Django → Django REST Framework → MongoDB → API Integration → Deployment → Docker → CI/CD → DevOps → Cloud**
+`Flutter Developer` · `Mobile App Developer` · `Full-Stack Developer` · `Backend Developer` · `Python Developer` · `Django Developer` · `Django REST Framework` · `REST API Developer` · `Dart Developer` · `MongoDB` · `Application Development`
 
-The goal is not just to build applications, but to understand the complete journey from **development to production**.
+## Connect With Me
 
----
+- **Portfolio:** [abhayguptadev.com](https://abhayguptadev.com/)
+- **GitHub:** [@abhayguptadev](https://github.com/abhayguptadev)
+- **LinkedIn:** [Abhay Gupta](https://www.linkedin.com/in/abhayguptadev)
+- **X:** [@abhayguptadev](https://x.com/abhayguptadev)
+- **Instagram:** [@abhayguptadev](https://www.instagram.com/abhayguptadev/)
+- **Threads:** [@abhayguptadev](https://www.threads.com/@abhayguptadev)
 
-## 🌱 Learning & Improving
+## Support My Work
 
-📱 Advanced Flutter Development
+If you find my projects useful, consider starring the repositories, sharing feedback, or contributing improvements.
 
-🧠 Django & Django REST Framework
+I'm always interested in building useful software, learning new technologies, and connecting with developers who enjoy solving real-world problems.
 
-🗄️ MongoDB & Database Architecture
-
-🌐 RESTful API Design
-
-🐳 Docker & Containerization
-
-⚙️ CI/CD Pipelines
-
-🐧 Linux & Server Management
-
-☁️ Cloud & Deployment
-
-🔐 Application & Infrastructure Security
-
-📈 Scalable Production Systems
-
----
-
-## 🎯 2026 Goals
-
-✅ Become a strong Full-Stack App Developer
-
-✅ Build and launch real-world applications
-
-✅ Strengthen Backend & API Development
-
-✅ Become proficient in DevOps and deployment
-
-✅ Learn modern cloud and infrastructure practices
-
-✅ Deploy and maintain production-ready applications
-
-🌍 Contribute to Open Source Projects
-
----
-
-## 🧩 LeetCode
-
-<p align="left">
-  <a href="https://leetcode.com/u/abhayguptadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhayguptadev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/abhayguptadev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💡 <i>"Building. Deploying. Improving."</i>
-</p>
+**Building better code, one line at a time.**
