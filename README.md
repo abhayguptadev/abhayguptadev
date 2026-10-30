@@ -92,15 +92,8 @@ UI/UX Design • Graphic Design • Interface Design • User-Focused Product De
 
 ## 🚀 Featured Projects
 
-### 1. Coder Card
 
-A customizable Python desktop application for creating personalized developer identity cards with live preview and JPG export.
-
-**Tech Stack:** Python • CustomTkinter • Pillow
-
-[![GitHub Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/abhayguptadev/Coder-Card)
-
-### 2. Skribbl Clone
+### 1. Skribbl Clone
 
 A multiplayer drawing and guessing game with a Flutter frontend and a Django Channels backend using WebSockets.
 
@@ -109,7 +102,7 @@ A multiplayer drawing and guessing game with a Flutter frontend and a Django Cha
 [![GitHub Repository](https://img.shields.io/badge/View-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/abhayguptadev/skribbl_clone)
 [![Live Demo](https://img.shields.io/badge/Play-Live_Demo-0A7F5A?style=for-the-badge)](https://skribbl-game-sepia.vercel.app/)
 
-### 3. Apps — Mobile & Web Projects
+### 2. Apps — Mobile & Web Projects
 
 A collection of mobile applications and web projects, including DocPocket, MathSphere, and Skribbl.
 
@@ -117,7 +110,7 @@ A collection of mobile applications and web projects, including DocPocket, MathS
 
 [![GitHub Repository](https://img.shields.io/badge/Explore-Apps-181717?style=for-the-badge&logo=github)](https://github.com/abhayguptadev/Apps)
 
-### 4. Data Structures & Algorithms
+### 3. Data Structures & Algorithms
 
 A university DSA practice repository containing class-wise coding exercises and learning materials.
 
